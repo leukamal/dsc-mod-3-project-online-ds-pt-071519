@@ -31,6 +31,6 @@ H0: there is no statistically significant difference between the quantity of pro
 Ha: there is a statistically significant difference between the quantity of product sold in the USA versus the UK.
 
 H0: there is no statistically significant difference between the processing time per order in the USA versus the UK.
-Ha: there is a statistically significant difference between the processing time per order in the USA versus the UK.
+Ha: there is a statistically significant difference between the processing time per order in the USA versus the United Kingdom.
 
 For each hypothesis we were able to either confirm or infirm the null hypothesis using one of our methodology.
