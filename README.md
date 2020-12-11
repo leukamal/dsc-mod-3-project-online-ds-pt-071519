@@ -3,7 +3,7 @@
 The highlight of the steps took to bring mod03's Project to completion.
 
 1-Importing the libraries
-We have imported the necessary libraries: sqlite3, numpy, pandas, scipy.stats as scs, from statsmodels.stats.power  we imported tt_ind_solve_power, matplotlib.pyplot as plt and seaborn as sns
+We have imported the necessary libraries: sqlite3, numpy, pandas, scipy.stats as scs, from statsmodels.stats.power  we imported tt_ind_solve_power, matplotlib.pyplot as plt and seaborn as sns.
 
 2-connected to the database
 We used this code to connect to the database:
